@@ -1,0 +1,10 @@
+{
+  "name": "myName",
+  "surname": "mySurname",
+  "age": 25,
+  "city": "myCity",
+  "numbers": {
+    "num1": 1,
+    "num2": 2
+  }
+}
